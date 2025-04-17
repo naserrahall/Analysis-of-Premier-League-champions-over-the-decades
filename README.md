@@ -1,4 +1,4 @@
-### 📝 Project Description: English Football Champions Analysis
+### Project Description: English Football Champions Analysis
 
 This project analyzes the historical winners of the **English football league** from its inception until the present day, using data scraped from Wikipedia.
 
